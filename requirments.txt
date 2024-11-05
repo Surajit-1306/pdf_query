@@ -1,0 +1,12 @@
+redis
+fastapi
+uvicorn
+pypdf
+sentence-transformers
+numpy
+python-multipart
+unstructured
+pdfminer.six
+pi_heif
+unstructured_inference
+poppler-utils tesseract-ocr
